@@ -3,8 +3,8 @@
 appsettings.json dosyasında Veritabanı bilgilerinizi eklemelisiniz.  <p>
 
 Terminal Ekranından proje konumuna gelip alttaki komutları çalıştırdığınızda proje çalışır duruma gelecektir. <p>
-dotnet ef migrations add InitialCreate <p>
-dotnet ef database update <p>
+-dotnet ef migrations add InitialCreate <p>
+-dotnet ef database update <p>
 
 Input olarak Grup sayısı(sadece 4 ve 8 e izin verilir) <p>
 İsim,Soyisim girilmelidir. <p>
