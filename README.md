@@ -6,8 +6,8 @@ Terminal Ekranından proje konumuna gelip alttaki komutları çalıştırdığı
 -dotnet ef migrations add InitialCreate <p>
 -dotnet ef database update <p>
 
-Input olarak Grup sayısı(sadece 4 ve 8 e izin verilir) <p>
-İsim,Soyisim girilmelidir. <p>
+Input olarak Grup sayısı(sadece 4 ve 8 e izin verilir)
+İsim,Soyisim girilebilir. <p>
 
 Sonuç her grupta tek ülke ve bir takım tek bir grupta olabilir şekilde gelecektir. <p>
 
